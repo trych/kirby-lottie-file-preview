@@ -1,0 +1,48 @@
+{
+  "name": "trych/kirby-lottie-file-preview",
+  "description": "Kirby CMS plugin that adds Lottie animation file previews to the panel.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "homepage": "https://github.com/trych/kirby-lottie-file-preview",
+  "authors": [
+    {
+      "name": "Timo Rychert",
+      "email": "mail@trych.dev",
+      "homepage": "https://trych.dev"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/trych/kirby-lottie-file-preview/issues",
+    "source": "https://github.com/trych/kirby-lottie-file-preview",
+    "docs": "https://github.com/trych/kirby-lottie-file-preview"
+  },
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  },
+  "extra": {
+    "installer-name": "lottie-file-preview"
+  },
+  "autoload": {
+    "psr-4": {
+      "trych\\LottieFilePreview\\": "classes/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "keywords": [
+    "php",
+    "plugin",
+    "kirby",
+    "kirby-cms",
+    "kirby-plugin",
+    "lottie",
+    "animation",
+    "file-preview",
+    "panel"
+  ]
+}

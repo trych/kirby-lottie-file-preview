@@ -1,0 +1,17 @@
+.k-lottie-file-preview lottie-player {
+	width: 100cqw;
+	height: 100cqh;
+
+	--lottie-player-seeker-thumb-color: var(--color-aqua-700);
+	--lottie-player-toolbar-icon-color: var(--color-gray-700);
+	--lottie-player-toolbar-icon-active-color: var(--color-gray-400);
+	--lottie-player-toolbar-icon-hover-color: var(--file-preview-color-text);
+}
+
+.k-lottie-file-preview .k-file-preview-frame {
+	padding: 0;
+}
+
+.k-lottie-file-preview .k-file-preview-frame {
+  background: var(--lottie-bg, transparent) !important;
+}
