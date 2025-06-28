@@ -1,7 +1,7 @@
 {
   "name": "trych/kirby-lottie-file-preview",
   "description": "Kirby CMS plugin that adds Lottie animation file previews to the panel.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "type": "kirby-plugin",
   "homepage": "https://github.com/trych/kirby-lottie-file-preview",
