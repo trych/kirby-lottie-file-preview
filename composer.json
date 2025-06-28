@@ -18,7 +18,7 @@
     "docs": "https://github.com/trych/kirby-lottie-file-preview"
   },
   "require": {
-    "getkirby/composer-installer": "^1.1"
+    "getkirby/composer-installer": "^1.2"
   },
   "extra": {
     "installer-name": "lottie-file-preview"
