@@ -1,6 +1,6 @@
 # Kirby Lottie File Preview
 
-A Kirby CMS plugin that adds Lottie animation file previews to the panel.
+A Kirby CMS plugin that adds [Lottie](https://lottiefiles.com/) animation file previews to the panel.
 
 ![Kirby Lottie File Preview](https://raw.githubusercontent.com/trych/kirby-lottie-file-preview/refs/heads/assets/screenshots/lottie-field-preview.webp)
 
