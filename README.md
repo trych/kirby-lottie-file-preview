@@ -87,7 +87,7 @@ If you need offline support, simply download the Lottie player:
 # Download latest version
 curl -o assets/lottie-player.js https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js
 ```
-Or download it manually and place it in `site/plugins/lottie-file-preview/assets/lottie-player.js`.
+Or <a href="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" download="lottie-player.js">download</a> it manually and place it in `site/plugins/lottie-file-preview/assets/lottie-player.js`. 
 
 The plugin will detect and use the local file.
 
